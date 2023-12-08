@@ -1,4 +1,8 @@
 ## Hey 👋, I'm Anuwat Thisuka!  
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuwatthisuka&theme=dark"
+</p>
   
 
 <a href="https://github.com/anuwatthisuka" target="_blank">
