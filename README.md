@@ -96,7 +96,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=anuwatthisuka&style=flat&color=blue)
 <br>
 <a href="https://github.com/anuwatthisuka">
-  <img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/main/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/main/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/anuwatthisuka/anuwatthisuka/main/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/anuwatthisuka/anuwatthisuka/main/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 <br/>  
