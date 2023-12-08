@@ -91,16 +91,13 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anuwatthisuka&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuwatthisuka&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+## Developer stats
+&nbsp;[![](https://img.shields.io/github/followers/anuwatthisuka?style=flat&color=blue&label=Followers&logo=github)](https://github.com/anuwatthisuka)
+![Profile Views](https://komarev.com/ghpvc/?username=anuwatthisuka&style=flat&color=blue)
+<br>
+<a href="https://github.com/anuwatthisuka">
+  <img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/main/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/main/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
 <br/>  
 
