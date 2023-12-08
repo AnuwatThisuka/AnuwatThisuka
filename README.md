@@ -90,21 +90,6 @@
 
 <br/>  
 
-
-## Developer stats
-&nbsp;[![](https://img.shields.io/github/followers/anuwatthisuka?style=flat&color=blue&label=Followers&logo=github)](https://github.com/anuwatthisuka)
-![Profile Views](https://komarev.com/ghpvc/?username=anuwatthisuka&style=flat&color=blue)
-<br>
-<a href="https://github.com/anuwatthisuka">
-  <img src="https://raw.githubusercontent.com/anuwatthisuka/anuwatthisuka/main/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/anuwatthisuka/anuwatthisuka/main/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
-<br/>  
-
-  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=anuwatthisuka&&style=flat-square)  
   
 
