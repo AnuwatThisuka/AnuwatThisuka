@@ -1,5 +1,16 @@
 # ANUWAT THISUKA
 
+#### Contact
+
+- **Email**: Anuwat_thisuka@outlook.com
+- **Phone**: +66 96-279-3451
+- **LinkedIn**: [Anuwat Thisuka](https://www.linkedin.com/in/anuwat-thisuka-0b1b3b1b3/)
+- **Portfolio**: [Anuwat Thisuka](https://anuwatthisuka.github.io/)
+
+#### Summary
+
+I am a front end developer/engineer with experience in developing and maintaining websites and web applications. I have experience working with a variety of programming languages, frameworks, and tools. I am passionate about creating user-friendly interfaces that provide a great user experience. I am a team player who is able to work well with others to achieve common goals. I am a quick learner who is able to adapt to new technologies and environments. I am looking for a challenging position that will allow me to continue to grow and develop my skills.
+
 #### Education
 
 - Bachelor of Technology in Electronics , Institute of Vocational Education Northeastern Region 3, Mahasarakham, Thailand May 2018 - March 2020, Graduated GPAX 3.66 (Rank 2st)
@@ -18,7 +29,7 @@
 
 ###### Hard Skills
 
-- Programming Languages: C, C++, Python, HTML, CSS, JavaScript,Tyepscript,Golang
+- Programming Languages: C, C++, Python, HTML, CSS, JavaScript,Tyepscript,Golang,kotlin
 - Frameworks: React.js, Angular, Vue, Node.js, Express.js,Go Fiber,Nex.js
 - Tools: Git, Docker, Jenkins, Heroku, Netlify, Vercel, Firebase, MongoDB, MySQL, PostgreSQL, Redis, RabbitMQ, Kafka, Nginx, Apache, Linux, Windows, MacOS
 
