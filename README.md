@@ -23,7 +23,6 @@ I am a front end developer/engineer with experience in developing and maintainin
 
 - **SNC Creativity Anthology Company Limited (SCAN)** - Rayong, Thailand, May 2022 - Present
   - Develop and maintain the front end of the website and web application. Work with the back end developer to integrate the front end with the back end. Design and implement user interface components. Monitor website performance, watch for traffic drops related to site usability problems and rectify the issues. Review app and feature coding and plan future website upgrades with the development team. Assist in the development of applications and features that will be put on the website and in internal functions that will help improve the overall company performance.
-    **Reference**: K.Nathaphart Bangkerd, Mini MD, CoDE - SNC Creativity Anthology Company Limited (SCAN), Tel. 081-123-4567
 
 #### Skills
 
