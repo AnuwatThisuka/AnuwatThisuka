@@ -28,9 +28,9 @@ I am a front end developer/engineer with experience in developing and maintainin
 
 ###### Hard Skills
 
-- Programming Languages: C, C++, Python, HTML, CSS, JavaScript,Tyepscript,Golang,kotlin
-- Frameworks: React.js, Angular, Vue, Node.js, Express.js,Go Fiber,Nex.js
-- Tools: Git, Docker, Jenkins, Heroku, Netlify, Vercel, Firebase, MongoDB, MySQL, PostgreSQL, Redis, RabbitMQ, Kafka, Nginx, Apache, Linux, Windows, MacOS
+- Programming Languages: C, C++, Python, HTML/CSS, JavaScript,Tyepscript,Golang,kotlin
+- Frameworks/Library: React.js, Angular, Vue, Node.js, Express.js,Go Fiber,Nex.js
+- Tools: Git, Docker, Heroku, Netlify, Vercel, Firebase, MongoDB, MySQL, PostgreSQL, Redis, RabbitMQ, Kafka, Nginx, Apache, Linux, Windows, MacOS
 
 ###### Soft Skills
 
@@ -47,6 +47,6 @@ I am a front end developer/engineer with experience in developing and maintainin
 #### Projects
 
 - **[Computerized maintenance management system](https://snc-services.sncformer.com/icmms/)** - Developed a computerized maintenance management system using Next.js, Codeigniter 4. The system is hosted on Apache server. The system is used to manage the maintenance of the company's equipment and facilities. The system has a user-friendly interface that allows users to easily create, update, and delete maintenance tasks. The system also has a reporting feature that allows users to generate reports on the status of maintenance tasks.
-- **[E-commerce website](https://www.scan.co.th)** - Developed an e-commerce website using React.js, Node.js, Express.js, MongoDB, and Redis. The website is hosted on Heroku and uses a CI/CD pipeline with Jenkins. The website allows users to browse products, add products to their cart, and checkout. The website also has an admin interface that allows administrators to manage products, orders, and users. The website has a user-friendly interface that allows users to easily navigate the site and make purchases.
-- **[Carbon credit system](https://www.scan.co.th)** - Developed a carbon credit system using React.js, Node.js, Express.js, MongoDB, and Redis. The system is hosted on Heroku and uses a CI/CD pipeline with Jenkins. The system is used to track the company's carbon emissions and generate carbon credits. The system has a user-friendly interface that allows users to easily input data on their carbon emissions and generate carbon credits. The system also has a reporting feature that allows users to generate reports on their carbon emissions and carbon credits.
-- **[Industrial internet of things system](https://www.scan.co.th)** - Developed an industrial internet of things system using React.js, Node.js, Express.js, MongoDB, and Redis. The system is hosted on Heroku and uses a CI/CD pipeline with Jenkins. The system is used to monitor the company's equipment and facilities. The system has a user-friendly interface that allows users to easily monitor the status of their equipment and facilities. The system also has a reporting feature that allows users to generate reports on the status of their equipment and facilities.
+- **[E-commerce website](https://www.scan.co.th)** - Developed an e-commerce website using Next.js, Codeigniter 4. The system is hosted on Apache server. The website allows users to browse products, add products to their cart, and checkout. The website also has an admin interface that allows administrators to manage products, orders, and users. The website has a user-friendly interface that allows users to easily navigate the site and make purchases.
+- **[Carbon credit system](https://www.scan.co.th)** - Developed a carbon credit system using Next.js, Codeigniter 4. The system is hosted on Apache server. The system is used to track the company's carbon emissions and generate carbon credits. The system has a user-friendly interface that allows users to easily input data on their carbon emissions and generate carbon credits. The system also has a reporting feature that allows users to generate reports on their carbon emissions and carbon credits.
+- **[Industrial internet of things system](https://www.scan.co.th)** - Developed an industrial internet of things system using Next.js, Codeigniter 4. The system is hosted on Apache server. The system is used to monitor the company's equipment and facilities. The system has a user-friendly interface that allows users to easily monitor the status of their equipment and facilities. The system also has a reporting feature that allows users to generate reports on the status of their equipment and facilities.
