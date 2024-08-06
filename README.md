@@ -9,7 +9,7 @@
 
 #### Summary
 
-I am a front end developer/engineer with experience in developing and maintaining websites and web applications. I have experience working with a variety of programming languages, frameworks, and tools. I am passionate about creating user-friendly interfaces that provide a great user experience. I am a team player who is able to work well with others to achieve common goals. I am a quick learner who is able to adapt to new technologies and environments. I am looking for a challenging position that will allow me to continue to grow and develop my skills.
+Front-end developer/engineer with experience in building and maintaining websites and web applications. Skilled in creating user-friendly interfaces and ensuring a seamless user experience. Quick learner, adaptable to new technologies, and a team player. Seeking challenging opportunities to further develop technical skills and contribute to innovative projects.
 
 #### Education
 
