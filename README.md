@@ -28,9 +28,9 @@ Front-end developer/engineer with experience in building and maintaining website
 
 ###### Hard Skills
 
-- Programming Languages: C, C++, Python, HTML/CSS, JavaScript,Tyepscript,Golang,kotlin
-- Frameworks/Library: React.js, Angular, Vue, Node.js, Express.js,Go Fiber,Nex.js
-- Tools: Git, Docker, Heroku, Netlify, Vercel, Firebase, MongoDB, MySQL, PostgreSQL, Redis, RabbitMQ, Kafka, Nginx, Apache, Linux, Windows, MacOS
+- Programming Languages: C, C++, Python, HTML/CSS, JavaScript,Tyepscript,Golang,Kotlin,SQL
+- Frameworks/Library: React.js, Angular, Vue, Node.js, Express.js,Go Fiber,Next.js,Svelte,Flutter,Vuepress,Sass,Tailwind CSS,Styled-Components,Stitches,Shadcn-ui,Ant design,Chakra-ui,Bootstrap
+- Tools: Git, Docker, Heroku, Netlify, Vercel, Firebase, MongoDB, MySQL, PostgreSQL, Redis, RabbitMQ, Kafka, Nginx, Apache, Linux, Windows, MacOS,Vite,Jest,Vitest,Electron,Tauri,Android studio
 
 ###### Soft Skills
 
