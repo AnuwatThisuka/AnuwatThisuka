@@ -32,7 +32,7 @@ With over 2 years of experience as a Front-End Developer, I have successfully le
 ### **Industrial Internet of Things Platform (IIoT) (2021 - 2024)**
 - Implemented various systems including carbon credit and carbon footprint tracking, digital supply chain management, a durian export elite platform, a digital marketing platform, and a computerized maintenance management system.
 
-### **Warehouse Management System (WMS) (2021)**
+### **Warehouse Management System (WMS) (2024)**
 - Optimized warehouse operations by utilizing an organized structure overview of the warehouse and pre-storage bins in SAP-QAS.
 - Successfully executed an efficient WMS that streamlined inventory management and storage processes.
 
