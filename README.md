@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Anuwat Thisuka!
 
-Front-end developer passionate about crafting user-friendly interfaces and seamless user experiences. With a strong background in electronics and software development, I enjoy turning complex challenges into simple, intuitive web applications.
+With over 4 years of experience as a Front-End Developer, I have successfully led the development of diverse web applications, focusing on delivering high-quality user experiences within tight deadlines. I excel in designing and implementing responsive interfaces, applying modern front-end frameworks and tools, and ensuring seamless integration with back-end systems. My experience includes optimizing web performance, adhering to industry standards, mitigating potential usability issues, and maintaining strong communication with stakeholders throughout the development process.
 
 ---
 
