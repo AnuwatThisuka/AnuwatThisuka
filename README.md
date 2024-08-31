@@ -19,19 +19,35 @@ Front-end developer passionate about crafting user-friendly interfaces and seaml
 
 ---
 
-## 🚀 Projects
+## 🚀 Key Projects and Achievements
 
-### [Computerized Maintenance Management System](https://snc-services.sncformer.com/icmms/)
-A user-friendly system developed using Next.js and CodeIgniter 4, designed to manage and monitor the maintenance of equipment and facilities.
+### **Advanced Carbon Measurement Systems Project (2024)**
+- Led the research and development of a real-time carbon dioxide measurement platform integrated with SAP systems.
+- Achieved certification from the Thailand Greenhouse Gas Management Organization (TGO).
 
-### [E-Commerce Website](https://www.scan.co.th)
-An e-commerce platform built with Next.js and CodeIgniter 4, offering product browsing, cart management, and an admin interface for managing products, orders, and users.
+### **Sustainable Forestation Project (2024)**
+- Designed and implemented a real-time carbon credit measurement platform for the "Sustainable Forestation Project" under the T-VER program.
+- Contributed to the company's environmental sustainability efforts, achieving TGO certification in 2022.
 
-### [Carbon Credit System](https://www.scan.co.th)
-A system developed to track carbon emissions and generate carbon credits, featuring intuitive data input and reporting capabilities.
+### **Industrial Internet of Things Platform (IIoT) (2021 - 2024)**
+- Implemented various systems including carbon credit and carbon footprint tracking, digital supply chain management, a durian export elite platform, a digital marketing platform, and a computerized maintenance management system.
 
-### [Industrial IoT System](https://www.scan.co.th)
-An industrial IoT system built using Next.js and CodeIgniter 4, providing real-time monitoring and reporting for equipment and facilities.
+### **Warehouse Management System (WMS) (2021)**
+- Optimized warehouse operations by utilizing an organized structure overview of the warehouse and pre-storage bins in SAP-QAS.
+- Successfully executed an efficient WMS that streamlined inventory management and storage processes.
+
+---
+
+## 💻 Front-End Developer Experience
+
+### **SNC Creativity Anthology Company Limited (SCAN)** - Rayong, Thailand  
+**Front-End Developer/Engineer | May 2022 - Present**
+
+- **User Interface Development**: Designed and developed responsive user interfaces with a focus on user experience, ensuring seamless navigation across all devices.
+- **Performance Optimization**: Monitored and optimized web application performance, reducing load times and improving responsiveness through efficient code and best practices.
+- **Cross-functional Collaboration**: Worked closely with back-end developers, UX/UI designers, and stakeholders to ensure cohesive product development and integration.
+- **Code Review & Upgrades**: Regularly reviewed code to maintain quality and participated in planning future upgrades to enhance the functionality and performance of existing systems.
+- **Internal Tools Development**: Assisted in creating internal tools and applications to streamline company operations, improving overall efficiency and productivity.
 
 ---
 
@@ -50,4 +66,3 @@ An industrial IoT system built using Next.js and CodeIgniter 4, providing real-t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuwatthisuka&layout=compact&theme=radical)
 
 ---
-
