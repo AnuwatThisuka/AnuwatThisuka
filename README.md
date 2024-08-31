@@ -40,7 +40,7 @@ With over 2 years of experience as a Front-End Developer, I have successfully le
 
 ## 💻 Front-End Developer Experience
 
-### **SNC Creativity Anthology Company Limited (SCAN)** - Rayong, Thailand  
+### **99 industrial solution co. ltd (99IS)** - Rayong, Thailand  
 **Front-End Developer/Engineer | May 2022 - Present**
 
 - **User Interface Development**: Designed and developed responsive user interfaces with a focus on user experience, ensuring seamless navigation across all devices.
