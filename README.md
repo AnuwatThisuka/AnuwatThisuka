@@ -9,6 +9,9 @@ With over 2 years of experience as a Front-End Developer, I have successfully le
 ### Programming Languages
 - C, C++, Python, HTML/CSS, JavaScript, TypeScript, Golang, Kotlin, SQL
 
+### AI & Machine Learning
+- Retrieval-Augmented Generation (RAG)
+
 ### Frameworks & Libraries
 - React.js, Angular, Vue.js, Node.js, Express.js, Go Fiber, Next.js, Svelte, SvelteKit, Flutter, Vuepress
 - Sass, Tailwind CSS, Styled-Components, Stitches, Shadcn-UI, Ant Design, Chakra-UI, Bootstrap, PostCSS
