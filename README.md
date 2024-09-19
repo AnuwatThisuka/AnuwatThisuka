@@ -14,7 +14,7 @@ With over 2 years of experience as a Front-End Developer, I have successfully le
 - Sass, Tailwind CSS, Styled-Components, Stitches, Shadcn-UI, Ant Design, Chakra-UI, Bootstrap, PostCSS
 
 ### Tools & Platforms
-- Git, Docker, Heroku, Netlify, Vercel, Firebase, MongoDB, MySQL, PostgreSQL, Redis, RabbitMQ, Kafka, Nginx, Apache
+- Git, Docker, Vercel, Firebase, MongoDB, MySQL, PostgreSQL, Redis, RabbitMQ, Kafka, Nginx, Apache
 - Linux, Windows, MacOS, Vite, Jest, Vitest, Electron, Tauri, Android Studio
 
 ---
