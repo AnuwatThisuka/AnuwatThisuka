@@ -13,7 +13,7 @@ With over 2 years of experience as a Front-End Developer, I have successfully le
 - Retrieval-Augmented Generation (RAG)
 
 ### Frameworks & Libraries
-- React.js, Angular, Vue.js, Node.js, Express.js, Go Fiber, Next.js, Svelte, SvelteKit, Flutter, Vuepress
+- React.js, Angular, Vue.js, Node.js, Express.js, Go Fiber, Next.js, Svelte, SvelteKit, Flutter, Vuepress,Figma 
 - Sass, Tailwind CSS, Styled-Components, Stitches, Shadcn-UI, Ant Design, Chakra-UI, Bootstrap, PostCSS
 
 ### Tools & Platforms
@@ -38,6 +38,14 @@ With over 2 years of experience as a Front-End Developer, I have successfully le
 ### **Warehouse Management System (WMS) (2024)**
 - Optimized warehouse operations by utilizing an organized structure overview of the warehouse and pre-storage bins in SAP-QAS.
 - Successfully executed an efficient WMS that streamlined inventory management and storage processes.
+
+### **Advanced Utility Monitoring Systems (2024)**
+- Led the research and development of a real-time water and electricity consumption monitoring platform integrated with factory management systems (e.g., SAP).
+- Achieved certification from the Ministry of Energy, Thailand, for energy efficiency standards.
+- Implemented advanced data analytics to optimize resource usage, leading to a 15% reduction in overall utility costs within the first year.
+- Developed a dashboard for real-time tracking and reporting of utility consumption, with automated alerts for abnormal usage patterns.
+- Integrated with IoT devices to provide precise measurements and predictive maintenance insights for water and electricity systems.
+- Collaborated with the Energy Regulatory Commission (ERC) for compliance with national energy and water usage regulations.
 
 ---
 
