@@ -41,7 +41,6 @@ With over 2 years of experience as a Front-End Developer, I have successfully le
 
 ### **Advanced Utility Monitoring Systems (2024)**
 - Led the research and development of a real-time water and electricity consumption monitoring platform integrated with factory management systems (e.g., SAP).
-- Achieved certification from the Ministry of Energy, Thailand, for energy efficiency standards.
 - Implemented advanced data analytics to optimize resource usage, leading to a 15% reduction in overall utility costs within the first year.
 - Developed a dashboard for real-time tracking and reporting of utility consumption, with automated alerts for abnormal usage patterns.
 - Integrated with IoT devices to provide precise measurements and predictive maintenance insights for water and electricity systems.
