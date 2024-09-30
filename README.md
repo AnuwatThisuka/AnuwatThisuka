@@ -13,7 +13,7 @@ With over 2 years of experience as a Front-End Developer, I have successfully le
 - Retrieval-Augmented Generation (RAG)
 
 ### Frameworks & Libraries
-- React.js, Angular, Vue.js, Node.js, Express.js, Go Fiber, Next.js, Svelte, SvelteKit, Flutter, Vuepress,Figma 
+- React.js, Angular, Vue.js, Node.js, Express.js, Nest.js Go Fiber, Next.js, Svelte, SvelteKit, Flutter, Vuepress,Figma 
 - Sass, Tailwind CSS, Styled-Components, Stitches, Shadcn-UI, Ant Design, Chakra-UI, Bootstrap, PostCSS
 
 ### Tools & Platforms
