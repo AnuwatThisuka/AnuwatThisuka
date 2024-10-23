@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Anuwat Thisuka!
 
-With over 2 years of experience as a Front-End Developer, I have successfully led the development of diverse web applications, focusing on delivering high-quality user experiences within tight deadlines. I excel in designing and implementing responsive interfaces, applying modern front-end frameworks and tools, and ensuring seamless integration with back-end systems. My experience includes optimizing web performance, adhering to industry standards, mitigating potential usability issues, and maintaining strong communication with stakeholders throughout the development process.
+With over **2 years** of experience as a **Front-End Developer**, I specialize in crafting seamless, responsive user interfaces and optimizing web application performance. My focus is on delivering high-quality, user-friendly designs and ensuring smooth integration with back-end systems. I enjoy working in fast-paced environments, adhering to industry standards, and constantly improving usability across platforms.
 
 ---
 
@@ -13,8 +13,9 @@ With over 2 years of experience as a Front-End Developer, I have successfully le
 - Retrieval-Augmented Generation (RAG)
 
 ### Frameworks & Libraries
-- React.js, Angular, Vue.js, Node.js, Express.js, Nest.js Go Fiber, Next.js, Svelte, SvelteKit, Flutter, Vuepress,Figma 
-- Sass, Tailwind CSS, Styled-Components, Stitches, Shadcn-UI, Ant Design, Chakra-UI, Bootstrap, PostCSS
+- **Front-End**: React.js, Angular, Vue.js, Next.js, Svelte, SvelteKit, Flutter, Vuepress, Figma
+- **Back-End**: Node.js, Express.js, Nest.js, Go Fiber
+- **Styling**: Sass, Tailwind CSS, Styled-Components, Stitches, Shadcn-UI, Ant Design, Chakra-UI, Bootstrap, PostCSS
 
 ### Tools & Platforms
 - Git, Docker, Vercel, Firebase, MongoDB, MySQL, PostgreSQL, Redis, RabbitMQ, Kafka, Nginx, Apache
@@ -22,48 +23,41 @@ With over 2 years of experience as a Front-End Developer, I have successfully le
 
 ---
 
-## 🚀 Key Projects and Achievements
+## 🚀 Key Projects & Achievements
 
 ### **Advanced Carbon Measurement Systems Project (2024)**
-- Led the research and development of a real-time carbon dioxide measurement platform integrated with SAP systems.
-- Achieved certification from the Thailand Greenhouse Gas Management Organization (TGO).
+- Led the development of a real-time carbon dioxide measurement platform, integrated with SAP systems, achieving certification from the **Thailand Greenhouse Gas Management Organization (TGO)**.
 
 ### **Sustainable Forestation Project (2024)**
-- Designed and implemented a real-time carbon credit measurement platform for the "Sustainable Forestation Project" under the T-VER program.
-- Contributed to the company's environmental sustainability efforts, achieving TGO certification in 2022.
+- Designed and implemented a carbon credit measurement platform for the **T-VER** program, contributing to environmental sustainability and securing **TGO certification**.
 
-### **Industrial Internet of Things Platform (IIoT) (2021 - 2024)**
-- Implemented various systems including carbon credit and carbon footprint tracking, digital supply chain management, a durian export elite platform, a digital marketing platform, and a computerized maintenance management system.
+### **Industrial Internet of Things (IIoT) Platform (2021 - 2024)**
+- Developed systems for carbon credit tracking, digital supply chain management, durian export platforms, digital marketing, and maintenance systems.
 
 ### **Warehouse Management System (WMS) (2024)**
-- Optimized warehouse operations by utilizing an organized structure overview of the warehouse and pre-storage bins in SAP-QAS.
-- Successfully executed an efficient WMS that streamlined inventory management and storage processes.
+- Streamlined warehouse operations with structured overviews and pre-storage bin management in **SAP-QAS**, improving inventory efficiency.
 
 ### **Advanced Utility Monitoring Systems (2024)**
-- Led the research and development of a real-time water and electricity consumption monitoring platform integrated with factory management systems (e.g., SAP).
-- Implemented advanced data analytics to optimize resource usage, leading to a 15% reduction in overall utility costs within the first year.
-- Developed a dashboard for real-time tracking and reporting of utility consumption, with automated alerts for abnormal usage patterns.
-- Integrated with IoT devices to provide precise measurements and predictive maintenance insights for water and electricity systems.
-- Collaborated with the Energy Regulatory Commission (ERC) for compliance with national energy and water usage regulations.
+- Built a platform for real-time monitoring of water and electricity usage, achieving a **15% reduction in utility costs** and compliance with **Energy Regulatory Commission (ERC)** standards.
 
 ---
 
-## 💻 Front-End Developer Experience
+## 💻 Experience
 
-### **99 industrial solution co. ltd (99IS)** - Rayong, Thailand  
-**Front-End Developer/Engineer | May 2022 - Present**
+### **99 Industrial Solution Co. Ltd (99IS)** - Rayong, Thailand  
+**Front-End Developer | May 2022 - Present**
 
-- **User Interface Development**: Designed and developed responsive user interfaces with a focus on user experience, ensuring seamless navigation across all devices.
-- **Performance Optimization**: Monitored and optimized web application performance, reducing load times and improving responsiveness through efficient code and best practices.
-- **Cross-functional Collaboration**: Worked closely with back-end developers, UX/UI designers, and stakeholders to ensure cohesive product development and integration.
-- **Code Review & Upgrades**: Regularly reviewed code to maintain quality and participated in planning future upgrades to enhance the functionality and performance of existing systems.
-- **Internal Tools Development**: Assisted in creating internal tools and applications to streamline company operations, improving overall efficiency and productivity.
+- **User Interface Development**: Created responsive and intuitive UIs to ensure smooth user interactions on all devices.
+- **Performance Optimization**: Enhanced web performance by minimizing load times and implementing best coding practices.
+- **Cross-Functional Collaboration**: Worked closely with back-end teams, designers, and stakeholders to maintain cohesive product development.
+- **Code Reviews**: Conducted regular code reviews and contributed to upgrading existing systems for better functionality and performance.
+- **Internal Tools**: Developed internal tools to streamline business operations and improve productivity.
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Let's Connect
 
-- **Email**: [Anuwat_thisuka@outlook.com](mailto:Anuwat_thisuka@outlook.com)
+- **Email**: [anuwat_thisuka@outlook.com](mailto:anuwat_thisuka@outlook.com)
 - **LinkedIn**: [Anuwat Thisuka](https://www.linkedin.com/in/anuwat-thisuka-0b1b3b1b3/)
 - **Portfolio**: [anuwatthisuka.github.io](https://anuwatthisuka.github.io/)
 
