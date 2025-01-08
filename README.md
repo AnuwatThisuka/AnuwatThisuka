@@ -7,13 +7,13 @@ With over **2 years** of experience as a **Front-End Developer**, I specialize i
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
-- C, C++, Python, HTML/CSS, JavaScript, TypeScript, Golang, Kotlin, SQL
+- C, C++, Python, HTML/CSS, JavaScript, TypeScript, Golang, Kotlin, SQL,Dart
 
 ### AI & Machine Learning
 - Retrieval-Augmented Generation (RAG)
 
 ### Frameworks & Libraries
-- **Front-End**: React.js, Angular, Vue.js, Next.js, Svelte, SvelteKit, Flutter, Vuepress, Figma
+- **Front-End**: React.js, Angular, Vue.js, Next.js, Svelte, SvelteKit, Flutter, Vuepress, Figma,React-Native
 - **Back-End**: Node.js, Express.js, Nest.js, Go Fiber
 - **Styling**: Sass, Tailwind CSS, Styled-Components, Stitches, Shadcn-UI, Ant Design, Chakra-UI, Bootstrap, PostCSS
 
