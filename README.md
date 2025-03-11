@@ -23,7 +23,7 @@ Highly skilled software developer and system architect with expertise in designi
 
 ---
 
-## Key Work Performance & Achievements:
+## 🚀 Key Work Performance & Achievements:
 - Developed enterprise-grade platforms for carbon footprint tracking, warehouse management, and utility monitoring, leading to increased efficiency and sustainability.
 - Optimized supply chain and inventory management, improving operational efficiency through real-time analytics and AI-powered automation.
 - Led cross-functional teams in delivering large-scale projects on time, ensuring compliance with industry standards and regulatory certifications.
