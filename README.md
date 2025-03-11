@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Anuwat Thisuka!
 
-With over **2 years** of experience as a **Front-End Developer**, I specialize in crafting seamless, responsive user interfaces and optimizing web application performance. My focus is on delivering high-quality, user-friendly designs and ensuring smooth integration with back-end systems. I enjoy working in fast-paced environments, adhering to industry standards, and constantly improving usability across platforms.
+Highly skilled software developer and system architect with expertise in designing and developing robust, scalable platforms for real-time data processing, AI, and IoT integration. Proficient in C, C++, Python, JavaScript, TypeScript, and Golang, with hands-on experience in React.js, Node.js, Flutter, Docker, Vercel, Firebase, and Git.
 
 ---
 
@@ -23,22 +23,13 @@ With over **2 years** of experience as a **Front-End Developer**, I specialize i
 
 ---
 
-## 🚀 Key Projects & Achievements
-
-### **Advanced Carbon Measurement Systems Project (2024)**
-- Led the development of a real-time carbon dioxide measurement platform, integrated with SAP systems, achieving certification from the **Thailand Greenhouse Gas Management Organization (TGO)**.
-
-### **Sustainable Forestation Project (2024)**
-- Designed and implemented a carbon credit measurement platform for the **T-VER** program, contributing to environmental sustainability and securing **TGO certification**.
-
-### **Industrial Internet of Things (IIoT) Platform (2021 - 2024)**
-- Developed systems for carbon credit tracking, digital supply chain management, durian export platforms, digital marketing, and maintenance systems.
-
-### **Warehouse Management System (WMS) (2024)**
-- Streamlined warehouse operations with structured overviews and pre-storage bin management in **SAP-QAS**, improving inventory efficiency.
-
-### **Advanced Utility Monitoring Systems (2024)**
-- Built a platform for real-time monitoring of water and electricity usage, achieving a **15% reduction in utility costs** and compliance with **Energy Regulatory Commission (ERC)** standards.
+## Key Work Performance & Achievements:
+- Developed enterprise-grade platforms for carbon footprint tracking, warehouse management, and utility monitoring, leading to increased efficiency and sustainability.
+- Optimized supply chain and inventory management, improving operational efficiency through real-time analytics and AI-powered automation.
+- Led cross-functional teams in delivering large-scale projects on time, ensuring compliance with industry standards and regulatory certifications.
+- Integrated SAP systems with real-time carbon measurement platforms, securing certification from Thailand’s TGO for environmental compliance.
+- Reduced factory utility costs by 15% through an IoT-driven utility monitoring system, enhancing energy efficiency and cost savings.
+- Designed a national carbon credit measurement platform, contributing to corporate sustainability and net-zero initiatives.
 
 ---
 
