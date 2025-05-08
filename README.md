@@ -1,6 +1,10 @@
 # 👋 Hello, I'm Anuwat Thisuka!
 
-Highly skilled software developer and system architect with expertise in designing and developing robust, scalable platforms for real-time data processing, AI, and IoT integration. Proficient in C, C++, Python, JavaScript, TypeScript, and Golang, with hands-on experience in React.js, Node.js, Flutter, Docker, Vercel, Firebase, and Git.
+Full Stack Developer & IIoT Systems Integration Specialist with over 2 years of experience delivering comprehensive
+Industrial Internet of Things solutions. Proficient in designing and developing applications that address business needs
+through the integration of hardware, software, and cloud services. Expert in frontend and backend development using modern
+technologies, IoT device connectivity, and sustainable development solutions. Passionate about creating efficient, real-time
+monitoring systems for industrial applications.
 
 ---
 
