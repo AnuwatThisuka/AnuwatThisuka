@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Anuwat Thisuka!
 
-Full Stack Developer & IIoT Systems Integration Specialist with over 2 years of experience delivering comprehensive
+Software Developer & IIoT Systems Integration Specialist with over 2 years of experience delivering comprehensive
 Industrial Internet of Things solutions. Proficient in designing and developing applications that address business needs
 through the integration of hardware, software, and cloud services. Expert in frontend and backend development using modern
 technologies, IoT device connectivity, and sustainable development solutions. Passionate about creating efficient, real-time
