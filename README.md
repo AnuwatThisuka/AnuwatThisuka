@@ -15,6 +15,7 @@ monitoring systems for industrial applications.
 
 ### AI & Machine Learning
 - Retrieval-Augmented Generation (RAG)
+- Model Context Protocol
 
 ### Frameworks & Libraries
 - **Front-End**: React.js, Angular, Vue.js, Next.js, Svelte, SvelteKit, Flutter, Vuepress, Figma,React-Native
